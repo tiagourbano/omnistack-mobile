@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-cxxreact/cxxreact/JSBundleType.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Folly/folly/Portability.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Folly/folly/CPortability.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/React-Core/React/RCTMultipartStreamReader.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/React/Base/RCTUtils.h

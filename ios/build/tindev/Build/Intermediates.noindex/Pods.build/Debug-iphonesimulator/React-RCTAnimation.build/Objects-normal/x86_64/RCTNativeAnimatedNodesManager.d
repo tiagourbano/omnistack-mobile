@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
+  /Users/user/Projects/OmniStack/omnistack-mobile/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h
